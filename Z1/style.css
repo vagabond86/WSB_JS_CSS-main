@@ -56,12 +56,12 @@ input[type="text"], input[type='password'], input[type='number'], input[type='da
     border-radius: 4px;
     padding: 0.5rem;
     color: white;
-    background-color: darkviolet;
+    background-color: darkcyan;
     cursor: pointer;
 }
 
 h3 {
-    color: darkviolet;
+    color: darkcyan;
     font-weight: bold;
     text-align: center;
 }
